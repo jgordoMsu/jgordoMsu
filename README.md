@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... reading the chapter
+- 🔭 I’m currently working on ... <h1>reading the chapter</h1>
 - 🌱 I’m currently learning ... moblie app dev
 - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
