@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-<h1>this is were you update stuff, lamo</h1>
+<h1>This is a header 1</h1>
+<h3>This a a header 3</h3>
+<b>bold</b>
+
 
 <!--
 **jgordoMsu/jgordoMsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
