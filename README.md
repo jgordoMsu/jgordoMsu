@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<h1>This is a header 1</h1>
-<h3>This a a header 3</h3>
+<h1>This is a home</h1>
+<h3>for projects and assignmetns</h3>
 <b>bold</b>
 
 
